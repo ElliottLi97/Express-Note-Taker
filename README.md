@@ -6,7 +6,7 @@ This project is covered under the MIT license.
 
 <a name="Description"></a>
 ## Description
-An express pject that creates a server and allowing you to store and delete notes with the click of a button. The front end html and js were provided but the backend js was written by me. 
+An express project that creates a server and allowing you to store and delete notes with the click of a button. The front end html and js were provided but the backend js was written by me. 
 
 # Table of Contents
 1. [Description](#Description)
